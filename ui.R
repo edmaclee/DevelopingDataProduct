@@ -9,7 +9,7 @@ shinyUI(pageWithSidebar(
     # h3("Function:"),
     h5("This application calculate your age and show your zodiac"),
     h5("You choose what to show by clicking any of the above checkboxes."),
-    h6("The ui.r and server.r scripts can be viewed via GitHub repository at:https://github.com/bretlaisy/DevelopingDataProduct.git")
+    h6("The ui.r and server.r scripts can be viewed via GitHub repository at:https://github.com/edmaclee/DevelopingDataProduct.git")
   ),
   mainPanel(
     h5('Your Birthday is:'),

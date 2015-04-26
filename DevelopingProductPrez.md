@@ -17,7 +17,7 @@ The program is written in SHINYAPPS and can be found here
 
 The presentation slide can be found here
 
-- http://rpubs.com/edmaclee/DevelopProductsPresentation
+- http://rpubs.com/edmaclee/DevelopingProductsPresentation
 
 
 The source code can be found here:
